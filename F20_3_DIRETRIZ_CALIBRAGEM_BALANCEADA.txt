@@ -1,0 +1,109 @@
+
+F20_3_CALIBRAGEM_BALANCEADA — DIRETRIZ OFICIAL
+
+OBJETIVO PRINCIPAL
+Gerar operações reais controladas para autópsia e evolução do Sistema N5/F20.
+
+A calibragem existe para:
+- gerar tiros;
+- gerar autópsias;
+- encontrar gargalos reais;
+- calibrar sobrevivência operacional;
+- calibrar preservação de lucro;
+- calibrar controle de perda.
+
+Sem tiro não existe evolução real.
+
+PRINCÍPIO CENTRAL DESCOBERTO
+O maior problema encontrado foi:
+- perdas grandes demais;
+- devolução excessiva de lucro;
+- preservação insuficiente da expansão.
+
+O sistema:
+- consegue achar movimento;
+- consegue entrar;
+- consegue gerar lucro parcial;
+
+MAS:
+- ainda devolve lucro demais;
+- e ainda aceita perdas proporcionalmente grandes.
+
+NOVA FILOSOFIA OPERACIONAL
+
+ENTRADA
+Afrouxar moderadamente os filtros de entrada.
+
+Objetivo:
+- gerar mais tiros;
+- gerar mais dados;
+- gerar mais autópsias;
+- evitar sistema travado sem operação.
+
+CERBERUS — NOVA PRIORIDADE
+Funções:
+- cortar prejuízo rapidamente;
+- impedir sangramento lento;
+- proteger expansão de lucro;
+- adaptar trailing conforme crescimento da operação;
+- diferenciar operação boa vs suspeita.
+
+REGRA MASTER — PRESERVAÇÃO DE LUCRO
+40% do pico máximo de lucro da operação deve ser protegido.
+
+Exemplos:
+- lucro máximo +0.50 → proteger mínimo +0.20
+- lucro máximo +1.00 → proteger mínimo +0.40
+- lucro máximo +1.40 → proteger mínimo +0.56
+- lucro máximo +2.00 → proteger mínimo +0.80
+
+Objetivo:
+- nunca devolver explosão inteira;
+- transformar expansão em crescimento real de caixa;
+- preservar 40–50% do avanço.
+
+AUTÓPSIA DAS PRIMEIRAS OPERAÇÕES
+
+OPERAÇÃO 1
+- entrada já negativa rapidamente;
+- possível slippage/spread/entrada atrasada;
+- prejuízo rápido (~0.50).
+
+OPERAÇÃO 2
+- lucro chegou próximo de +1.40;
+- operação respirou;
+- tendência parecia saudável;
+- devolveu quase tudo.
+
+Lição:
+- necessidade urgente de proteção progressiva;
+- regra dos 40% aprovada.
+
+NOVA DIRETRIZ MATEMÁTICA
+ERRO ATUAL:
+- pequenos ganhos;
+- poucas perdas;
+- porém perdas maiores que o conjunto dos ganhos.
+
+OBJETIVO NOVO:
+- perdas médias muito menores;
+- ganhos preservados;
+- relação ganho/perda positiva;
+- sobrevivência matemática sustentável.
+
+ESTRUTURA DA CALIBRAGEM
+- 6 ativos;
+- todos em M15;
+- foco em gerar operações;
+- foco em autópsia;
+- foco em sobrevivência.
+
+FILOSOFIA N5
+Se o sistema sobrevive no M15 agressivo, então M30 e H1 tendem a ser mais lucrativos e estáveis futuramente.
+
+M15 = laboratório de guerra.
+M30/H1 = sniper de lucro pesado.
+
+PRINCÍPIO FINAL
+Cada tiro é uma autópsia.
+Prejuízo controlado = aquisição de inteligência operacional.
