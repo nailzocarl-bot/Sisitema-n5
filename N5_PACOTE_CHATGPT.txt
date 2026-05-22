@@ -1,0 +1,118 @@
+N5_PACOTE_CHATGPT
+
+ANALISE POR TIMEFRAME
+
+Este arquivo e atualizado automaticamente pelo F17 enquanto o robo roda no MT5.
+Coloque o F17 em graficos diferentes, por exemplo M5, M15, M30 e H1, e deixe o laboratorio gerar dados.
+
+M5:
+- total de sinais: 0
+- total de operacoes abertas: 0
+- total de bloqueios: 0
+- lucro/prejuizo total: 0.00
+- win rate: 0.0%
+- loss rate: 0.0%
+- media de lucro: 0.00
+- media de perda: 0.00
+- tempo medio entre operacoes: 0.0s
+- tempo medio de operacao aberta: 0.0s
+- spread medio: 0.0 pts
+- slippage medio: 0.0 pts
+- entrada negativa media: 0.00
+- entradas contaminadas: 0
+- ativo mais operado: -
+- ativo mais lucrativo: -
+- ativo mais problematico: -
+- observacao: aguardando dados.
+
+M15:
+- total de sinais: 0
+- total de operacoes abertas: 0
+- total de bloqueios: 0
+- lucro/prejuizo total: 0.00
+- win rate: 0.0%
+- loss rate: 0.0%
+- media de lucro: 0.00
+- media de perda: 0.00
+- tempo medio entre operacoes: 0.0s
+- tempo medio de operacao aberta: 0.0s
+- spread medio: 0.0 pts
+- slippage medio: 0.0 pts
+- entrada negativa media: 0.00
+- entradas contaminadas: 0
+- ativo mais operado: -
+- ativo mais lucrativo: -
+- ativo mais problematico: -
+- observacao: aguardando dados.
+
+M30:
+- total de sinais: 0
+- total de operacoes abertas: 0
+- total de bloqueios: 0
+- lucro/prejuizo total: 0.00
+- win rate: 0.0%
+- loss rate: 0.0%
+- media de lucro: 0.00
+- media de perda: 0.00
+- tempo medio entre operacoes: 0.0s
+- tempo medio de operacao aberta: 0.0s
+- spread medio: 0.0 pts
+- slippage medio: 0.0 pts
+- entrada negativa media: 0.00
+- entradas contaminadas: 0
+- ativo mais operado: -
+- ativo mais lucrativo: -
+- ativo mais problematico: -
+- observacao: aguardando dados.
+
+H1:
+- total de sinais: 0
+- total de operacoes abertas: 0
+- total de bloqueios: 0
+- lucro/prejuizo total: 0.00
+- win rate: 0.0%
+- loss rate: 0.0%
+- media de lucro: 0.00
+- media de perda: 0.00
+- tempo medio entre operacoes: 0.0s
+- tempo medio de operacao aberta: 0.0s
+- spread medio: 0.0 pts
+- slippage medio: 0.0 pts
+- entrada negativa media: 0.00
+- entradas contaminadas: 0
+- ativo mais operado: -
+- ativo mais lucrativo: -
+- ativo mais problematico: -
+- observacao: aguardando dados.
+
+RECOMENDACAO AUTOMATICA:
+- Se M15 opera bastante mas da prejuizo: M15 gera dados, mas precisa melhorar qualidade.
+- Se M30 quase nao opera: M30 seletivo demais para laboratorio.
+- Se M30 lucra com poucas operacoes: M30 pode ser melhor para real.
+- Se M15 tem muitas entradas contaminadas: melhorar filtro de nascimento/execucao no M15.
+
+ALERTAS INTERNOS N5
+- Aguardando execucao do F18A.
+- Exemplo: ALERTA AMARELO | Logica | US30 | M15 | BUY falhou 3 vezes | pausa BUY 15 min.
+- Exemplo: ALERTA VERMELHO | Confiabilidade | US30 | M15 | metralhadora detectada | pausa ativo 30 min.
+
+HEARTBEAT VPS / INTERFACE
+- ultimo tick processado: -
+- ultima operacao: -
+- ultimo relatorio gerado: -
+- status do robo: aguardando inicio.
+
+ENGENHARIA CORRETIVA
+- Engenharia: observar travamentos, repeticao de tiro e latencia do VPS.
+- Matematica: perda acumulada do ativo e limite por operacao.
+- Logica: falha repetida da mesma tese BUY/SELL.
+- Confiabilidade: anti-metralhadora e ativo hostil.
+- Estrategia: zonas problematicas, especialmente US30.
+- Cerberus: corte por perda maxima, protecao e trailing.
+- Autopsia: comparar alertas com resultado real/demo.
+
+SEGURANCA:
+- TP sempre zero.
+- Cerberus continua removendo TP.
+- F17 REAL respeita PERMITIR_CONTA_REAL.
+- F17 DEMO bloqueia conta real por padrao.
